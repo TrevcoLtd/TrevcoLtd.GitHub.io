@@ -1,7 +1,4 @@
 <body>
-        <header>
-        <h1>Trevco Engineering Ltd</h1>
-        <p>Structural | Geotechnical | Civil | Transport Engineering</p>
     </header>
     <nav>
         <a href="#about">About</a>
