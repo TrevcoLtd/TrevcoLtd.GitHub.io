@@ -36,7 +36,7 @@
     <div class="container" id="contact">
         <h2>Contact Us</h2>
         <p>Email: info@trevcoengineering.com</p>
-        <p>Phone: +64 123 456 789</p>
+        <p>Phone: +64 027 879 3271</p>
     </div>
     <footer>
         <p>&copy; 2025 Trevco Engineering. All rights reserved.</p>
