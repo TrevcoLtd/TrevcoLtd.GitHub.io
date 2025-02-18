@@ -8,7 +8,7 @@
     <div class="container" id="about">
         <h2>About Us</h2>
         <p>Trevco Engineering provides expert solutions in structural, geotechnical, civil, and transport engineering.</p>
-        <img scr="https://raw.github.com/TrevcoLtd/TrevcoLtd.GitHub.io/blob/5e464a542e84e9f031c04dd407933dfd0df9be03/images/New%20Logo.png?raw=true" alt="Trevco Logo">
+        <img src="https://raw.githubusercontent.com/TrevcoLtd/TrevcoLtd.GitHub.io/main/images/New%20Logo.png?raw=true" alt="Trevco Logo">
     </div>
     <div class="container" id="services">
         <h2>Our Services</h2>
