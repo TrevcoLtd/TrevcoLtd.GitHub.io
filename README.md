@@ -1,5 +1,3 @@
-
-</head>
 <body>
     <header>
         <h1>Trevco Engineering</h1>
