@@ -1,6 +1,6 @@
 <body>
     <header>
-        <h1>Trevco Engineering</h1>
+        <h2>Trevco Engineering Ltd</h2>
         <p>Structural | Geotechnical | Civil | Transport Engineering</p>
     </header>
     <nav>
