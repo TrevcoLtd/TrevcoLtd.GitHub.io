@@ -1,5 +1,4 @@
 <body>
-    </header>
     <nav>
         <a href="#about">About</a>
         <a href="#services">Services</a>
