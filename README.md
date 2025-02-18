@@ -35,7 +35,7 @@
     </div>
     <div class="container" id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@trevcoengineering.com</p>
+        <p>Email: office@trevco.co.nz</p>
         <p>Phone: +64 027 879 3271</p>
     </div>
     <footer>
