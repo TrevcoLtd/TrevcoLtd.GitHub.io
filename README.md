@@ -39,6 +39,7 @@
         <h2>Contact Us</h2>
         <p>Email: offic@trevco.co.nz</p>
         <p>Phone: 027 879 3271</p>
+        <p>Location: 6 Burgess Road, Johnsonville, Wellington</p>
     </div>
     <footer>
         <p>&copy; 2025 Trevco Engineering. All rights reserved.</p>
