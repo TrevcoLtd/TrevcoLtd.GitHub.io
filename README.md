@@ -14,7 +14,7 @@
         <h2>Our Services</h2>
         <div class="services">
             <div class="service">
-                <img src="structural.jpg" alt="Structural Engineering">
+                <img scr="https://raw.githubusercontent.com/TrevcoLtd/TrevcoLtd.GitHub.io/main/images/Scala%20Pic.JPG?raw=true" alt="Scala Pic">
                 <h3>Structural Engineering</h3>
                 <p>We provide innovative structural solutions for various building projects.</p>
             </div>
